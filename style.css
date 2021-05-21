@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    background-color:#E0FFFF; 
+}
+
+div {
+    position: relative;
+    left: 160px;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color:#40E0D0; 
+
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    background-color: Aquamarine;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 3px DeepSkyBlue;
+    
+}
+
+header {
+    background-color: SkyBlue;
+    padding: 20px;
+    border-radius: 10px;
+    border: solid 3px SkyBlue;
+}
+
+ul { 
+    color: DodgerBlue;
+}
+
+
+    
+.link-nav {
+    position: relative;
+    left: 300px;
+    bottom: 42px;
+}
+
+.link-header {
+    position: relative;
+    
+    right: 100px;
+}
